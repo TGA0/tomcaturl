@@ -18,3 +18,5 @@ http://192.168.2.62:8080/user/index/
 http://192.168.2.62:8080/./user/index
 
 http://192.168.2.62:8080/sss/../user/index
+
+高版本springboot的payload兼容低版本springboot的payload
